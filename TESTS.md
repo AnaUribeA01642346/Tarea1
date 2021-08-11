@@ -3,10 +3,10 @@
 
 ## Configuración de pruebas con **pytest**
 
-`nota:` para todo las pruebas puedes usar esta configuración:
+`nota:` Recuerda que para probar requieres las siguientes instrucciones:
 ### Setup command (optional)
 ```
-sudo -H pip3 install pytest
+pip3 install pytest
 ```
 
 - ## 00 Hello World
