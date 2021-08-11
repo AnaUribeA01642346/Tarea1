@@ -1,6 +1,6 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios Básicos!
+# Ejercicios que componen la tarea 1
 
 - 02 Área Triángulo
-- 03 Premedio Calificaciones
+- 03 Promedio Calificaciones
 - 07 Pendiente Línea
